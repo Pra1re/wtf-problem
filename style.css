@@ -1,0 +1,11 @@
+.leura{
+    width: 100%;
+    margin-left: auto;
+
+}
+.leura-father{
+    width: 90%;
+    margin: auto;
+    background-color: red;
+    margin-top: 100px;
+}
